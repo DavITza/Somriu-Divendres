@@ -1,0 +1,2 @@
+# Somriu-Divendres
+Exercicis Git
